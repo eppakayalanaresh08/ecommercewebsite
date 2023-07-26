@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "name": "GB",
+      "price": 10.99,
+      "image": "https://images.pexels.com/photos/12456260/pexels-photo-12456260.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "name": "Corexico Collagen",
+      "price": 20.49,
+      "image": "https://images.pexels.com/photos/6475101/pexels-photo-6475101.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "quantity": 5
+    },
+    {
+        "id": 3,
+        "name": "Lite",
+        "price": 20.49,
+        "image": "https://images.pexels.com/photos/5582621/pexels-photo-5582621.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "quantity": 5
+    },
+    {
+    "id": 4,
+    "name": "MakeUp Kit",
+    "price": 20.49,
+    "image": "https://images.pexels.com/photos/2866796/pexels-photo-2866796.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "quantity": 5
+    },
+    {
+    "id": 5,
+    "name": "Misolo Cosmatic",
+    "price": 20.49,
+    "image": "https://images.pexels.com/photos/4841375/pexels-photo-4841375.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "quantity": 5
+    },
+    {
+    "id": 6,
+    "name": "Ditox",
+    "price": 20.49,
+    "image": "https://images.pexels.com/photos/11124443/pexels-photo-11124443.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "quantity": 1
+    },
+    {
+    "id": 7,
+    "name": "Collagen Peptides",
+    "price": 20.49,
+    "image": "https://images.pexels.com/photos/6475116/pexels-photo-6475116.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "quantity": 5
+    },
+    {
+    "id": 8,
+    "name": "Binoid CBD",
+    "price": 20.49,
+    "image": "https://images.pexels.com/photos/3643455/pexels-photo-3643455.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "quantity": 5
+    },
+    {
+    "id": 9,
+    "name": "CR",
+    "price": 20.49,
+    "image": "https://images.pexels.com/photos/14656188/pexels-photo-14656188.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "quantity": 5
+    }
+  ]
+  
